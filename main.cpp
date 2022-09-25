@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 
+
 {
     int a;
     int b;
@@ -14,3 +15,4 @@ int main()
     cout << "a-b = " << (a-b);
     return 0;
  }
+
